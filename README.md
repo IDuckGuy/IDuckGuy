@@ -1,1 +1,4 @@
-- 👋 Hi, I’m @IDuckGuy
+-  Hi, I’m IDuckGuy
+-  It is I
+-  I cannot program at all
+- still trying tho :D
